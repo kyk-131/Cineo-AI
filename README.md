@@ -1,7 +1,7 @@
-# 🎬 Kineo AI - Movie Generator
+# 🎬 Cineo AI - Movie Generator
 
 ## 🚀 Transform Text into Stunning AI-Generated Movies
-Kineo AI - Movie Generator is an advanced AI-powered tool that converts text prompts into high-quality cinematic videos. Using cutting-edge **Stable Diffusion** and deep learning techniques, it generates seamless, visually stunning movie clips with customizable styles, camera movements, and more!
+Cineo AI - Movie Generator is an advanced AI-powered tool that converts text prompts into high-quality cinematic videos. Using cutting-edge **Stable Diffusion** and deep learning techniques, it generates seamless, visually stunning movie clips with customizable styles, camera movements, and more!
 
 ---
 
@@ -34,7 +34,7 @@ Sign in to access the AI video generator. Activate your subscription to unlock p
 Type a text prompt describing your desired scene. Customize details like camera movement and style.
 
 ### 3️⃣ **AI Generates Stunning Frames**
-Kineo AI processes the input and generates a series of **coherent frames** using **Stable Diffusion**.
+Cineo AI processes the input and generates a series of **coherent frames** using **Stable Diffusion**.
 
 ### 4️⃣ **Frames Are Compiled into a Video**
 The frames are stitched into a smooth, high-quality movie clip using **MoviePy**.
@@ -76,8 +76,8 @@ The final video is available for **download and sharing** directly from the web 
 ### 🏃 Quick Start
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/kineo-ai.git
-   cd kineo-ai
+   git clone https://github.com/yourusername/Cineo-ai.git
+   cd Cineo-ai
    ```
 2. **Install Dependencies**
    ```bash
@@ -96,15 +96,15 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 ---
 
 ## 🎭 Inspiration
-Kineo AI was created to revolutionize **AI-powered storytelling**—making movie generation accessible to everyone. Whether you're a **filmmaker, content creator, or just curious**, Kineo AI brings your ideas to life with **zero effort!** 🚀🎬
+Cineo AI was created to revolutionize **AI-powered storytelling**—making movie generation accessible to everyone. Whether you're a **filmmaker, content creator, or just curious**, Cineo AI brings your ideas to life with **zero effort!** 🚀🎬
 
 ---
 
 ## 🌟 Join the Community
 💬 Have questions? Want to contribute?
 - 🌐 Visit our [Website](https://yourwebsite.com)
-- 🐦 Follow us on Twitter: [@KineoAI](https://twitter.com/kineoai)
-- 🧑‍💻 Contribute on GitHub: [Kineo AI Repository](https://github.com/yourusername/kineo-ai)
+- 🐦 Follow us on Twitter: [@CineoAI](https://twitter.com/Cineoai)
+- 🧑‍💻 Contribute on GitHub: [Cineo AI Repository](https://github.com/yourusername/Cineo-ai)
 
 Let’s create movies with AI! 🚀🎞️
 
