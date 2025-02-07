@@ -1,0 +1,6 @@
+streamlit
+moviepy
+Pillow
+numpy
+torch
+diffusers
